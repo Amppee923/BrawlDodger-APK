@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Brawl Dodger</string>
+    <string name="accessibility_service_description">Auto-dodge & aim in Brawl Stars using screen AI.</string>
+</resources>
